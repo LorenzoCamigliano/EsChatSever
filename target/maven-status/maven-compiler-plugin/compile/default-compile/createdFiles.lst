@@ -1,0 +1,6 @@
+Server.class
+Server$ThreadServer.class
+Client.class
+.netbeans_automatic_build
+Client$ThreadIn.class
+Client$ThreadOut.class
